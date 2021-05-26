@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-211.7142.45">
-    <data-source name="dfprapcnqvl8a5@ec2-54-166-167-192.compute-1.amazonaws.com" uuid="5a33c6ac-39e9-4c88-8929-273d011eb95d">
+    <data-source name="dd94i0a6svtno4@ec2-54-224-194-214.compute-1.amazonaws.com" uuid="05c03c73-27c2-43c2-9e4f-cb8358d38fd1">
       <database-info product="PostgreSQL" version="13.2 (Ubuntu 13.2-1.pgdg20.04+1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="13.2" exact-driver-version="42.2">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
-      <user-name>tdgakzvdeyeiva</user-name>
-      <schema-mapping>
-        <introspection-scope>
-          <node kind="database" qname="@">
-            <node kind="schema" qname="@" />
-          </node>
-        </introspection-scope>
-      </schema-mapping>
-    </data-source>
-    <data-source name="ripl@localhost" uuid="59831cad-0622-4911-b25c-a005697f54e1">
-      <database-info product="PostgreSQL" version="13.1" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="13.1" exact-driver-version="42.2">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>springuser</user-name>
+      <user-name>hhcsygwoolydwz</user-name>
       <schema-mapping>
         <introspection-scope>
           <node kind="database" qname="@">

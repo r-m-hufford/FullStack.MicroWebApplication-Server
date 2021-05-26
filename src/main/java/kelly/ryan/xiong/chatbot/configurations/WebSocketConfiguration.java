@@ -1,12 +1,13 @@
 package kelly.ryan.xiong.chatbot.configurations;
 
-import kelly.ryan.xiong.chatbot.handler.ChatWebSocketHandler;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.WebSocketHandler;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
 import org.springframework.web.socket.config.annotation.WebSocketConfigurer;
 import org.springframework.web.socket.config.annotation.WebSocketHandlerRegistry;
+import kelly.ryan.xiong.chatbot.handler.ChatWebSocketHandler;
 
 @Configuration
 @EnableWebSocket
